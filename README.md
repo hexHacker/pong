@@ -1,4 +1,4 @@
-# youpong!
+# you-pong!
 
 p5.js over matter.js pong test game! 
 
